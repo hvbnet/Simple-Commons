@@ -2,8 +2,8 @@
 <resources>
     <string name="ok">باشه</string>
     <string name="cancel">لغو</string>
-    <string name="back">Back</string>
-    <string name="nothing">Nothing</string>
+    <string name="back">برگشت</string>
+    <string name="nothing">هیچ</string>
     <string name="later">بعدا</string>
     <string name="save_as">ذخیره به عنوان</string>
     <string name="file_saved">پرونده با موفقیت ذخیره شد</string>
@@ -13,9 +13,9 @@
     <string name="error">Error: %s</string>
     <string name="open_with">بازکردن با</string>
     <string name="edit_with">ویرایش با</string>
-    <string name="edit">Edit</string>
+    <string name="edit">ویرایش</string>
     <string name="no_app_found">برنامهٔ معتبری پیدا نشد</string>
-    <string name="no_browser_found">No browser found</string>
+    <string name="no_browser_found">مرورگر پیدا نشد</string>
     <string name="no_email_client_found">No email client found</string>
     <string name="set_as">تنظیم به عنوان</string>
     <string name="copy_to_clipboard">رونوشت به بریده‌دان</string>
@@ -48,17 +48,17 @@
     <string name="no_phone_call_permission">App does not have the permission to initiate phone calls, please grant it in the device settings</string>
     <string name="insert_text_here">متن را اینجا وارد کنید</string>
     <string name="call_person">Call %s</string>
-    <string name="confirm_calling_person">Confirm calling %s</string>
-    <string name="zero">Zero</string>
-    <string name="one">One</string>
-    <string name="two">Two</string>
-    <string name="three">Three</string>
-    <string name="four">Four</string>
-    <string name="five">Five</string>
-    <string name="six">Six</string>
-    <string name="seven">Seven</string>
-    <string name="eight">Eight</string>
-    <string name="nine">Nine</string>
+    <string name="confirm_calling_person">تایید تماس با %s</string>
+    <string name="zero">صفر</string>
+    <string name="one">یک</string>
+    <string name="two">دو</string>
+    <string name="three">سه</string>
+    <string name="four">چهار</string>
+    <string name="five">پنج</string>
+    <string name="six">شش</string>
+    <string name="seven">هفت</string>
+    <string name="eight">هشت</string>
+    <string name="nine">نه</string>
     <string name="value">Value</string>
     <string name="value_cannot_be_empty">Value cannot be empty</string>
     <string name="create_new_contact">Create new contact</string>
@@ -106,8 +106,8 @@
     <string name="change_cover_image">تغییر تصویر پوشش</string>
     <string name="select_photo">گزینش تصویر</string>
     <plurals name="column_counts">
-        <item quantity="one">%d column</item>
-        <item quantity="other">%d columns</item>
+        <item quantity="one">%d ستون</item>
+        <item quantity="other">%d ستون ها</item>
     </plurals>
 
     <!-- Blocked numbers -->
@@ -624,113 +624,113 @@
 
     <!-- Alarms -->
     <string name="alarm">هشدار</string>
-    <string name="snooze">Snooze</string>
-    <string name="dismiss">Dismiss</string>
-    <string name="no_reminder">No reminder</string>
-    <string name="at_start">At start</string>
-    <string name="system_sounds">System sounds</string>
-    <string name="your_sounds">Your sounds</string>
-    <string name="add_new_sound">Add a new sound</string>
-    <string name="no_sound">No sound</string>
-    <string name="during_day_at_hh_mm">During the day at hh:mm</string>
-    <string name="during_day_at">During the day at %02d:%02d</string>
+    <string name="snooze">به تعویق انداختن</string>
+    <string name="dismiss">رد</string>
+    <string name="no_reminder">بدون یادآوری</string>
+    <string name="at_start">در شروع</string>
+    <string name="system_sounds">صداهای سیستم</string>
+    <string name="your_sounds">صداهای شما</string>
+    <string name="add_new_sound">یک صدای جدید اضافه کنید</string>
+    <string name="no_sound">بدون صدا</string>
+    <string name="during_day_at_hh_mm">در طول روز در hh:mm</string>
+    <string name="during_day_at">در طول روز در %02d:%02d</string>
 
     <!-- Settings -->
     <string name="settings">تنظیمات</string>
-    <string name="purchase_simple_thank_you">Purchase Simple Thank You</string>
-    <string name="general_settings">General</string>
-    <string name="color_customization">Color customization</string>
-    <string name="improved_color_customization">Improved color customization</string>
+    <string name="purchase_simple_thank_you">خرید ساده با تشکر</string>
+    <string name="general_settings">عمومی</string>
+    <string name="color_customization">سفارشی سازی رنگ</string>
+    <string name="improved_color_customization">سفارشی سازی رنگ بهبود یافته</string>
     <string name="customize_colors">سفارشی سازی رنگ‌ها</string>
     <string name="customize_colors_locked">سفارشی سازی رنگ‌ها (قفل )</string>
-    <string name="feature_locked">Locked</string>
+    <string name="feature_locked">قفل شده است</string>
     <string name="customize_widget_colors">سفارشی سازی رنگ‌های ویجت</string>
     <string name="customize_notifications">سفارشی سازی اعلانات</string>
-    <string name="notification_sound">Notification sound</string>
+    <string name="notification_sound">صدای اعلان</string>
     <string name="use_english_language">استفاده از زبان انگلیسی</string>
-    <string name="language">Language</string>
+    <string name="language">زبان</string>
     <string name="show_hidden_items">نمایش موارد مخفی</string>
     <string name="font_size">اندازهٔ قلم</string>
     <string name="small">کوچک</string>
     <string name="medium">متوسط</string>
     <string name="large">بزرگ</string>
     <string name="extra_large">خیلی بزرگ</string>
-    <string name="password_protect_hidden_items">Password protect hidden item visibility</string>
-    <string name="password_protect_whole_app">Password protect the whole application</string>
-    <string name="password_protect_file_deletion">Password protect file deletion and moving</string>
-    <string name="keep_last_modified">Keep old last-modified value at file operations</string>
-    <string name="show_info_bubble">Show an info bubble at scrolling items by scrollbar dragging</string>
-    <string name="prevent_phone_from_sleeping">Prevent phone from sleeping while the app is in foreground</string>
-    <string name="skip_delete_confirmation">Always skip delete confirmation dialog</string>
-    <string name="enable_pull_to_refresh">Enable pull-to-refresh from the top</string>
-    <string name="use_24_hour_time_format">Use 24-hour time format</string>
-    <string name="change_date_and_time_format">Change date and time format</string>
-    <string name="sunday_first">Start week on Sunday</string>
+    <string name="password_protect_hidden_items">رمز عبور از نمایان شدن آیتم پنهان محافظت می کند</string>
+    <string name="password_protect_whole_app">رمز عبور از کل برنامه محافظت می کند</string>
+    <string name="password_protect_file_deletion">رمز عبور از حذف و جابجایی فایل محافظت می کند</string>
+    <string name="keep_last_modified">مقدار آخرین آخرین اصلاح شده را در عملیات فایل حفظ کنید</string>
+    <string name="show_info_bubble">با کشیدن نوار پیمایش، حباب اطلاعاتی را در موارد پیمایش نشان دهید</string>
+    <string name="prevent_phone_from_sleeping">از خوابیدن گوشی در حالی که برنامه در پیش زمینه است جلوگیری کنید</string>
+    <string name="skip_delete_confirmation">همیشه از گفتگوی تایید حذف رد شوید</string>
+    <string name="enable_pull_to_refresh">pull-to-refresh را از بالا فعال کنید</string>
+    <string name="use_24_hour_time_format">از فرمت زمانی 24 ساعته استفاده کنید</string>
+    <string name="change_date_and_time_format">تغییر فرمت تاریخ و زمان</string>
+    <string name="sunday_first">شروع هفته از یکشنبه</string>
     <string name="widgets">ابزارک‌ها</string>
-    <string name="use_same_snooze">Always use same snooze time</string>
-    <string name="snooze_time">Snooze time</string>
-    <string name="vibrate_on_button_press">Vibrate on button press</string>
-    <string name="move_items_into_recycle_bin">Move items into the Recycle Bin instead of deleting</string>
-    <string name="recycle_bin_cleaning_interval">Recycle Bin cleaning interval</string>
-    <string name="empty_recycle_bin">Empty the Recycle Bin</string>
-    <string name="force_portrait_mode">Force portrait mode</string>
+    <string name="use_same_snooze">همیشه از همان زمان چرت زدن استفاده کنید</string>
+    <string name="snooze_time">زمان چرت زدن</string>
+    <string name="vibrate_on_button_press">لرزش با فشار دادن دکمه</string>
+    <string name="move_items_into_recycle_bin">موارد را به جای حذف به سطل بازیافت منتقل کنید</string>
+    <string name="recycle_bin_cleaning_interval">فاصله تمیز کردن سطل بازیافت</string>
+    <string name="empty_recycle_bin">سطل بازیافت را خالی کنید</string>
+    <string name="force_portrait_mode">حالت پرتره اجباری</string>
     <string name="export_settings">برون‌ریزی تنظیمات</string>
     <string name="import_settings">درون‌ریزی تنظیمات</string>
-    <string name="settings_exported_successfully">Settings exported successfully</string>
-    <string name="settings_imported_successfully">Settings imported successfully</string>
-    <string name="start_name_with_surname">Start name with surname</string>
+    <string name="settings_exported_successfully">تنظیمات با موفقیت صادر شد</string>
+    <string name="settings_imported_successfully">تنظیمات با موفقیت وارد شد</string>
+    <string name="start_name_with_surname">شروع نام با نام خانوادگی</string>
     <string name="clear_cache">پاک کردن انباره</string>
-    <string name="show_call_confirmation_dialog">Show a call confirmation dialog before initiating a call</string>
+    <string name="show_call_confirmation_dialog">قبل از شروع تماس، یک گفتگوی تأیید تماس را نشان دهید</string>
 
     <!-- Setting sections -->
-    <string name="visibility">Visibility</string>
-    <string name="security">Security</string>
+    <string name="visibility">دید</string>
+    <string name="security">امنیت</string>
     <string name="scrolling">Scrolling</string>
     <string name="file_operations">File operations</string>
     <string name="recycle_bin">زباله‌دان</string>
     <string name="saving_label">ذخیره</string>
     <string name="startup">راه‌انداز</string>
     <string name="text">متن</string>
-    <string name="migrating">Migrating</string>
-    <string name="quality">Quality</string>
-    <string name="main_screen">Main screen</string>
-    <string name="thumbnails">Thumbnails</string>
+    <string name="migrating">مهاجرت کردن</string>
+    <string name="quality">کیفیت</string>
+    <string name="main_screen">صفحه اصلی</string>
+    <string name="thumbnails">ریز عکسها</string>
     <string name="list_view">List view</string>
 
     <!-- Excluding -->
     <string name="exclude">مستثنی</string>
-    <string name="exclude_folder">Exclude folder</string>
+    <string name="exclude_folder">حذف پوشه</string>
     <string name="excluded_folders">شاخه‌های مستثنی شده</string>
     <string name="excluded">(مستثنی)</string>
     <string name="manage_excluded_folders">مدیریت شاخه‌های مستثنی</string>
-    <string name="remove_all">Remove all</string>
-    <string name="remove_all_description">Remove all folders from the list of excluded\? This will not delete the folders.</string>
-    <string name="temporarily_show_excluded">Temporarily show excluded</string>
-    <string name="stop_showing_excluded">Stop showing excluded</string>
+    <string name="remove_all">همه را حذف کنید</string>
+    <string name="remove_all_description">همه پوشه ها را از لیست حذف شده حذف کنید؟ با این کار پوشه ها حذف نمی شوند.</string>
+    <string name="temporarily_show_excluded">نمایش موقت حذف شده است</string>
+    <string name="stop_showing_excluded">توقف نمایش حذف شده</string>
 
     <!-- Default tab to open -->
-    <string name="manage_shown_tabs">Manage shown tabs</string>
-    <string name="default_tab_to_open">Tab to open at app start</string>
+    <string name="manage_shown_tabs">برگه های نشان داده شده را مدیریت کنید</string>
+    <string name="default_tab_to_open">برگه برای باز کردن در شروع برنامه</string>
     <string name="contacts_tab">مخاطب</string>
     <string name="favorites_tab">موردعلاقه</string>
     <string name="call_history_tab">تاریخچه تماس</string>
     <string name="groups_tab">گروه‌ها</string>
-    <string name="last_used_tab">Last used one</string>
+    <string name="last_used_tab">آخرین مورد استفاده</string>
     <string name="files_tab">پرونده‌ها</string>
     <string name="recent_files_tab">پرونده‌های اخیر</string>
 
     <!-- Recycle Bin -->
-    <string name="restore_this_file">Restore this file</string>
-    <string name="restore_selected_files">Restore selected files</string>
-    <string name="restore_all_files">Restore all files</string>
-    <string name="recycle_bin_emptied">The Recycle Bin has been emptied successfully</string>
-    <string name="files_restored_successfully">Files have been restored successfully</string>
-    <string name="empty_recycle_bin_confirmation">Are you sure you want to empty the Recycle Bin? The files will be permanently lost.</string>
-    <string name="recycle_bin_empty">The Recycle Bin is empty</string>
-    <string name="moving_recycle_bin_items_disabled">Moving Recycle bin items is disabled, please use Restore</string>
-    <string name="show_the_recycle_bin">Show the Recycle Bin</string>
-    <string name="hide_the_recycle_bin">Hide the Recycle Bin</string>
-    <string name="open_the_recycle_bin">Open the Recycle Bin</string>
+    <string name="restore_this_file">این فایل را بازیابی کنید</string>
+    <string name="restore_selected_files">بازیابی فایل های انتخاب شده</string>
+    <string name="restore_all_files">تمام فایل ها را بازیابی کنید</string>
+    <string name="recycle_bin_emptied">سطل بازیافت با موفقیت تخلیه شد</string>
+    <string name="files_restored_successfully">فایل ها با موفقیت بازیابی شدند</string>
+    <string name="empty_recycle_bin_confirmation">آیا مطمئن هستید که می خواهید سطل بازیافت را خالی کنید؟ فایل ها برای همیشه از بین خواهند رفت.</string>
+    <string name="recycle_bin_empty">سطل بازیافت خالی است</string>
+    <string name="moving_recycle_bin_items_disabled">جابجایی اقلام سطل بازیافت غیرفعال است، لطفاً از Restore استفاده کنید</string>
+    <string name="show_the_recycle_bin">سطل بازیافت را نشان دهید</string>
+    <string name="hide_the_recycle_bin">سطل بازیافت را مخفی کنید</string>
+    <string name="open_the_recycle_bin">سطل بازیافت را باز کنید</string>
 
     <plurals name="moving_items_into_bin">
         <item quantity="one">Moving %d item into the Recycle Bin</item>
@@ -744,21 +744,21 @@
     <string name="exporting_successful">برون‌ریزی با موفقیت انجام شد</string>
     <string name="importing_failed">درون‌ریزی شکست خورد</string>
     <string name="exporting_failed">برون‌ریزی شکست خورد</string>
-    <string name="importing_some_entries_failed">Importing some entries failed</string>
-    <string name="exporting_some_entries_failed">Exporting some entries failed</string>
-    <string name="no_entries_for_importing">No entries for importing have been found</string>
-    <string name="no_new_entries_for_importing">No new entries for importing have been found</string>
-    <string name="no_entries_for_exporting">No entries for exporting have been found</string>
-    <string name="backups">Backups</string>
-    <string name="enable_automatic_backups">Enable automatic backups</string>
-    <string name="manage_automatic_backups">Manage automatic backups</string>
-    <string name="date_time_pattern_info">You can use the following patterns to name your file automatically:\n\n%Y - year\n%M - month\n%D - day\n%h - hour\n%m - minute\n%s - second</string>
+    <string name="importing_some_entries_failed">وارد کردن برخی از ورودی ها انجام نشد</string>
+    <string name="exporting_some_entries_failed">صادر کردن برخی از ورودی ها انجام نشد</string>
+    <string name="no_entries_for_importing">هیچ ورودی برای واردات یافت نشد</string>
+    <string name="no_new_entries_for_importing">هیچ ورودی جدیدی برای وارد کردن یافت نشد</string>
+    <string name="no_entries_for_exporting">هیچ ورودی برای صادرات یافت نشد</string>
+    <string name="backups">پشتیبان گیری</string>
+    <string name="enable_automatic_backups">فعال کردن پشتیبان گیری خودکار</string>
+    <string name="manage_automatic_backups">پشتیبان گیری خودکار را مدیریت کنید</string>
+    <string name="date_time_pattern_info">می توانید از الگوهای زیر برای نامگذاری خودکار فایل خود استفاده کنید:\n\n%Y - year\n%M - month\n%D - day\n%h - hour\n%m - minute\n%s - second</string>
 
     <!-- OTG devices -->
     <string name="usb">یو‌اس‌بی</string>
-    <string name="usb_detected">You seem to have an USB device attached to your device. To make sure its files appear properly, you need to grant additional permissions.</string>
-    <string name="confirm_usb_storage_access_text">Please choose the top folder of the USB device on the next screen, to grant access</string>
-    <string name="wrong_root_selected_usb">Wrong folder selected, please select the main folder of your USB device</string>
+    <string name="usb_detected">به نظر می رسد یک دستگاه USB به دستگاه خود وصل شده است. برای اطمینان از اینکه فایل‌های آن به درستی ظاهر می‌شوند، باید مجوزهای بیشتری بدهید.</string>
+    <string name="confirm_usb_storage_access_text">لطفاً برای اعطای دسترسی، پوشه بالای دستگاه USB را در صفحه بعدی انتخاب کنید</string>
+    <string name="wrong_root_selected_usb">پوشه اشتباه انتخاب شده است، لطفاً پوشه اصلی دستگاه USB خود را انتخاب کنید</string>
 
     <!-- Dates -->
     <string name="january">ژانویه</string>
@@ -774,17 +774,17 @@
     <string name="november">نوامبر</string>
     <string name="december">دسامبر</string>
     <!-- Short months -->
-    <string name="january_short">Jan</string>
-    <string name="february_short">Feb</string>
-    <string name="march_short">Mar</string>
-    <string name="april_short">Apr</string>
+    <string name="january_short">ژان</string>
+    <string name="february_short">فوریه</string>
+    <string name="march_short">مارس</string>
+    <string name="april_short">آوریل</string>
     <string name="may_short">May</string>
-    <string name="june_short">June</string>
-    <string name="july_short">July</string>
+    <string name="june_short">ژوئن</string>
+    <string name="july_short">جولای</string>
     <string name="august_short">Aug</string>
-    <string name="september_short">Sept</string>
-    <string name="october_short">Oct</string>
-    <string name="november_short">Nov</string>
+    <string name="september_short">سپتامبر</string>
+    <string name="october_short">اکتبر</string>
+    <string name="november_short">نوامبر</string>
     <string name="december_short">Dec</string>
 
     <!-- in January -->
@@ -826,7 +826,7 @@
     <string name="sunday_short">یک‌شنبه</string>
 
     <!-- Pro version -->
-    <string name="upgrade_to_pro_long">Your app version will not be updated anymore. Please upgrade to the Pro version to receive new fixes and other improvements.</string>
+    <string name="upgrade_to_pro_long">نسخه برنامه شما دیگر به روز نمی شود. لطفاً برای دریافت اصلاحات جدید و سایر بهبودها به نسخه Pro ارتقا دهید.</string>
     <string name="upgrade_to_pro_long_click">Your app version will not be updated anymore. Please upgrade to the Pro version to receive new fixes and other improvements by clicking here.</string>
     <string name="it_is_free">It is free till: %s. If you download it till then, you will be able to use it for free forever.</string>
     <string name="more_info">More info</string>
