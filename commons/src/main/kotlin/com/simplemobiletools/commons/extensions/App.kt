@@ -11,3 +11,11 @@ fun Application.checkUseEnglish() {
         resources.updateConfiguration(conf, resources.displayMetrics)
     }
 }
+
+fun Application.setAppLanguage(locale: Locale) {
+    if (baseConfig.useEnglish && !isNougatPlus()) {
+        val conf = resources.configuration
+        conf.locale = locale
+        resources.updateConfiguration(conf, resources.displayMetrics)
+    }
+}
